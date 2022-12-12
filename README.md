@@ -1,6 +1,8 @@
 # <Prework Study Guide Webpage>
 
-## My motivation for this project is to learn the foundation of coding. I built this project in order to obtain a better understanding of the basic functions of HTML, CSS, Git, and JavaScript to aid my learning for the next 6 months for this class. The project provides a place in which I can look back at for notes. I learned how to use coding applications more efficiently than I had originally started and gained entry level knowledge that I did not have when I initially started the modules. 
+## Description
+
+My motivation for this project is to learn the foundation of coding. I built this project in order to obtain a better understanding of the basic functions of HTML, CSS, Git, and JavaScript to aid my learning for the next 6 months for this class. The project provides a place in which I can look back at for notes. I learned how to use coding applications more efficiently than I had originally started and gained entry level knowledge that I did not have when I initially started the modules. 
 
 ## Installation
 
